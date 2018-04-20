@@ -19,7 +19,7 @@
         </div>
 
         <div class="col-3">
-             <a href="#">En vélo</a>
+             <a href="choix.php"class="myButton">En vélo</a>
             <!-- <img class="img-ch" src="../img/VTT.jpg" alt="VTT">
             <img class="img-ch" src="../img/tente.jpg" alt="tente">
             <img class="img-ch" src="../img/torche.jpg" alt="torche"> -->
