@@ -63,9 +63,11 @@
 
                           <!-- Modal body -->
                           <div class="modal-body">
+<
                               Tu me parait en bonne santé. Il faut que je t'explique ce qu'il s'est passé pendant que tu étais inconscient : un <strong>virus informatique</strong> s'est propagé sur tout le réseau! Le code initial fut créé par
                                  des stagiaires et balancé sur un Hub (Git Hub), ce qui a créé un monstrueux bordel...
                                  plus d'internet, plus de transport, feux rouges, péages et grosses perturbations sur tout le réseau électrique.
+
                           </div>
 
                           <!-- Modal footer -->

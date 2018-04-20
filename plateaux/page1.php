@@ -23,4 +23,3 @@
         <a href="game1.php" class="myButton">Suivant</a>
     </body>
 </html>
-</!DOCTYPE>
