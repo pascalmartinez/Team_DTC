@@ -1,10 +1,11 @@
-html,body {
+html ,body, section, h1 {
   font-family: 'Raleway', sans-serif;
   padding: 1em 2em;
   font-size: 18px;
   background: #222;
   color: #aaa;
 }
+
 
 h1,h2 {
   font-weight: 200;
@@ -21,6 +22,31 @@ h2 {
     height: 50px;
     width: 50px;
 }
+
+#talkbubble {
+   width: 120px;
+   height: 80px;
+   background: white;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:         10px;
+}
+#talkbubble:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid white;
+   border-bottom: 13px solid transparent;
+}
+
+
+
+
 
 .myButton {
 	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
