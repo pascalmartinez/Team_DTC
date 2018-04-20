@@ -2,6 +2,7 @@
     <html>
         <head>
             <?php include '../header.html' ?>
+          <link rel="stylesheet" href="../css/style.css">
           <script src="../js/game1.js"></script>
          </head>
         <body>
@@ -60,8 +61,8 @@
 
                           <!-- Modal body -->
                           <div class="modal-body">
-                            Tu me parait en bonne santé. Il faut que je t'explique ce qu'il s'est passé pendant que tu étais inconscient, la propagation provient d’un foyers à Limoges! Le code initial est un code troll créé par
-                                des stagiaires et balancé sur un Hub (Git Hub) et qui a créé un monstrueux bordel...
+                            Tu me parait en bonne santé. Il faut que je t'explique ce qu'il s'est passé pendant que tu étais inconscient : un <strong>virus informatique</strong> s'est propagé sur tout le réseau! Le code initial fut créé par
+                                des stagiaires et balancé sur un Hub (Git Hub), ce qui a créé un monstrueux bordel...
                                 plus d'internet, plus de transport, feux rouges, péages et grosses perturbations sur tout le réseau électrique.
                           </div>
 

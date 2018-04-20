@@ -2,6 +2,7 @@
     <html>
         <head>
           <?php include 'header.html' ?>
+          <link rel="stylesheet" href="css/style.scss">
         </head>
 
         <body>
@@ -30,5 +31,6 @@
 
 
           <?php include 'footer.php' ?>
+          <script type="text/javascript" src="js/script.js"></script>
         </body>
     </html>
