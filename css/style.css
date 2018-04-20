@@ -1,11 +1,25 @@
+<<<<<<< HEAD
 /*html ,.complet, section, h1 {
+=======
+html,.complet, section, h1 {
+>>>>>>> 6b492e38990a42b468d30dc3fd79a437380e9235
   font-family: 'Raleway', sans-serif;
   padding: 1em 2em;
   font-size: 18px;
   background: #222;
+<<<<<<< HEAD
   color: #aaa;
 }
 */
+=======
+  color: #aaa; }
+
+  body{
+      background-image: url("img/pays2.png");
+  }
+
+
+>>>>>>> 6b492e38990a42b468d30dc3fd79a437380e9235
 h1, h2 {
   font-weight: 200;
   margin: 0.4em 0; }
@@ -21,8 +35,16 @@ h2 {
   height: 50px;
   width: 50px; }
 
+.img-ch{
+height: 100px;
+width: 100px;
+  }
+
 p {
   text-align: justify; }
+.phot_chat{
+    text-align: center;
+}
 
 #talkbubble {
   width: 120px;
@@ -108,7 +130,8 @@ p {
   position: relative;
   top: 1px; }
 
-#instructions {
+
+/* #instructions {
   position: absolute;
   color: #666;
   bottom: 0;
@@ -116,11 +139,9 @@ p {
   font-family: sans-serif;
   width: 100%;
   text-align: center;
-  pointer-events: none; }
+  pointer-events: none; } */
 
-#img {
-  top: 150px; }
-
+<<<<<<< HEAD
 #game {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
@@ -135,6 +156,8 @@ p {
     width: 100%; }
   #game .btn {
     margin-top: 125px; }
+=======
+>>>>>>> 6b492e38990a42b468d30dc3fd79a437380e9235
 
 #train {
   filter: grayscale(80%);

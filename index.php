@@ -2,13 +2,11 @@
     <html>
         <head>
           <?php include 'header.html' ?>
-          <link rel="stylesheet" href="css/style.scss">
+           <link rel="stylesheet" href="css/style.css">
+         <script type="text/javascript"  src="js/script.js"></script>
         </head>
-
-        <body>
         <div class="complet">
-
-
+        <body>
                 <h1 >Team D.T.C présente
                     <span class="txt-rotate"
                             data-period="2000"
@@ -27,7 +25,7 @@
                     <a href="plateaux/game1.php" class="myButton">Play Game!</a>
                 </div>
             </div>
-        </div>
+
 
 
           <?php include 'footer.php' ?>
