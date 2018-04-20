@@ -1,16 +1,13 @@
 <!DOCTYPE html>
     <html>
         <head>
-               <?php include '../header.html' ?>
+            <?php include '../header.html' ?>
           <script src="../js/game1.js"></script>
-          <title></title>
-
-        </head>
-
+         </head>
         <body>
           <section id="game" class="container-fluid">
             <div id="texte" class="jumbotron">
-                <p>Salut! Moi c'est Marmoud la Marmotte, je t'ai trouvé au bord de la route à coté d'une voiture accidentée,
+                <p>Salut! Moi c'est Mahmoud la Marmotte, je t'ai trouvé au bord de la route à coté d'une voiture accidentée,
                 j'te propose un petit jeu afin de vérifier que tout va bien.</p>
                 <button type="button" id="start">Pret?</button>
             </div>
@@ -49,7 +46,34 @@
                     <button type="button" id="bt9" class="btn btn-warning invisible">Cliquez ici</button>
                   </div>
                   <div class="col-12">
-                    <button type="button" id="bt10" class="btn btn-warning invisible">Cliquez ici</button>
+                    <button type="button" id="bt10" class="btn btn-warning invisible"  data-toggle="modal" data-target="#myModal">Cliquez ici</button>
+                  </div>
+                  <div class="modal fade " id="myModal">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+
+                          <!-- Modal Header -->
+                          <div class="modal-header">
+                            <h4 class="modal-title">Félicitations</h4>
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                          </div>
+
+                          <!-- Modal body -->
+                          <div class="modal-body">
+                            Tu me parait en bonne santé. Il faut que je t'explique ce qu'il s'est passé pendant que tu étais inconscient, la propagation provient d’un foyers à Limoges! Le code initial est un code troll créé par
+                                des stagiaires et balancé sur un Hub (Git Hub) et qui a créé un monstrueux bordel...
+                                plus d'internet, plus de transport, feux rouges, péages et grosses perturbations sur tout le réseau électrique.
+                          </div>
+
+                          <!-- Modal footer -->
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                          </div>
+
+                        </div>
+                      </div>
+                    </div>
+
                   </div>
               </div>
 

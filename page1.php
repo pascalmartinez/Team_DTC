@@ -13,13 +13,7 @@
             </p>
 
         </div>
-        <div class="jumbotron">
-            <p>Le héro apprend que la propagation provient d’un foyers à Limoges! Le code initial est un code troll créé par
-                des stagiaires et balancé sur un Hub (Git Hub) et qui a créé une monstrueux bordel...
-                plus d'internet, plus de transport, feux rouges, péages et grosses perturbations sur tout le réseau électrique.
-            </p>
-        </div>
-
+    
     </body>
 </html>
 </!DOCTYPE>
