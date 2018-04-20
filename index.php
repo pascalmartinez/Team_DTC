@@ -5,7 +5,7 @@
         </head>
 
         <body>
-                <h1 >Team DTC présente
+                <h1 >Team D.T.C présente
                     <span class="txt-rotate"
                             data-period="2000"
                             data-rotate='["Fatal error!!!"]'>
