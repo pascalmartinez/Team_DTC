@@ -1,7 +1,7 @@
 #img {
   top: 100px; }
 
-#game {
+body {
   background: url("../img/cabin2.jpg") center no-repeat;
   background-size: cover;
   height: 100%;

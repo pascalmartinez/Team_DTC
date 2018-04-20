@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
     <head>
-         <?php include 'header.html' ?>
-         <link rel="stylesheet" href="../css/style.css">
+      <?php include '../header.html' ?>
+      <link rel="stylesheet" href="../css/style2.css">
         <title></title>
     </head>
     <body>
         <div class="jumbotron" >
 
-            <p>Notre héro, Java, la souris se reveille  chez un homme à Châteauroux et il comprend qu'il a eu un accident,
-            il ne comprend pas par contre ce qui s'est passé et du coup il voit un espèce de chao dans la ville.
-            Son premier interlocuteur est l'homme qui lui a sauvé la vie, il lui explique que suite à un virus informatique tout
-            le pays est en PLS et qu'il faut absolument trouver quelqu'un pour sauver le monde... The coder-mouse...</p>
+            <p>Tu me parait en bonne santé. Il faut que je t'explique ce qu'il s'est passé pendant que tu étais inconscient : un <strong>virus informatique</strong> s'est propagé sur tout le réseau! Le code initial fut créé par
+                des stagiaires et balancé sur un Hub (Git Hub), ce qui a créé un monstrueux bordel...
+                plus d'internet, plus de transport, feux rouges, péages et grosses perturbations sur tout le réseau électrique.</p>
 
 
         </div>
-        <div class="phot_chat" >
-            <img src="../img/Châteauroux.jpg" alt="Châteauroux" style="width:300px ">
+
+        <div id="img" class="col-4 text-center">
+          <img src="../img/marmot.png" class="img-fluid"/>
+          <a href="page2.php">Suivant</a>
         </div>
 
 
-        <a href="game1.php" class="myButton">Suivant</a>
     </body>
 </html>

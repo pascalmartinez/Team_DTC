@@ -3,7 +3,7 @@
         <head>
           <?php include 'header.html' ?>
            <link rel="stylesheet" href="css/style.css">
-         <script type="text/javascript"  src="js/script.js"></script>
+           <script type="text/javascript"  src="js/script.js"></script>
         </head>
         <div class="complet">
         <body>
