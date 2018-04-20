@@ -5,6 +5,9 @@
         </head>
 
         <body>
+        <div class="complet">
+
+
                 <h1 >Team D.T.C présente
                     <span class="txt-rotate"
                             data-period="2000"
@@ -20,10 +23,10 @@
                     <p>Je suis Java, la souris Hard-codeuse! tu veux m'aider à supprimer ce virus??? </p>
                 </div>
                 <div class="col-4">
-                    <a href="page1.php" class="myButton">Play Game!</a>
+                    <a href="plateaux/game1.php" class="myButton">Play Game!</a>
                 </div>
             </div>
-
+        </div>
 
 
           <?php include 'footer.php' ?>
