@@ -40,4 +40,22 @@ $(document).ready(function(){
     $('#bt10').removeClass("invisible");
     $('#bt3').addClass("invisible");
   })
+
+//game 2
+
+var correct=false;
+
+$(".gare img").click(function(){
+    if ($(this).attr("id")==="lim") {
+
+
+correct=true;
+    if (correct===true) {
+        $("#lim").css("border", "solid 5px green");
+        }
+    }else {
+        $(this).css("border" ,"solid 5px red");
+    }
+});
+
 })
