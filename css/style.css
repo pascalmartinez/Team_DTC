@@ -131,7 +131,7 @@ p {
   text-align: center;
   pointer-events: none; } */
 
-<<<<<<< HEAD
+
 #game {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
@@ -146,8 +146,7 @@ p {
     width: 100%; }
   #game .btn {
     margin-top: 125px; }
-=======
->>>>>>> 6b492e38990a42b468d30dc3fd79a437380e9235
+
 
 #train {
   filter: grayscale(80%);

@@ -19,13 +19,13 @@
         </div>
 
         <div class="col-3">
-             <p><input type="radio" name="gender" value="other">En vélo</p>
+             <a href="choix.php"class="myButton">En vélo</a>
             <!-- <img class="img-ch" src="../img/VTT.jpg" alt="VTT">
             <img class="img-ch" src="../img/tente.jpg" alt="tente">
             <img class="img-ch" src="../img/torche.jpg" alt="torche"> -->
         </div>
         <div class="col-3">
-             <p><input type="radio" name="gender" value="other">En train</p>
+            <a href="train.php" class="myButton">En train</a>
             <!-- <img class="img-ch" src="" alt="cafetière">
             <img class="img-ch" src="../img/cle.jpg" alt=""> -->
             <a href="page3.php" class="myButton">Suivant</a>

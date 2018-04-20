@@ -1,0 +1,51 @@
+*
+{
+ margin: 0px;
+ padding: 0px;
+}
+html{
+    height: 929px;
+    width: 1850px;
+}
+.foret
+{
+    height: 1000px;
+    width: 1850px;
+    position: absolute;
+}
+.safe
+{
+ height: 150px;
+ width: 150px;
+ position: relative;
+ float: right;
+ margin-top: 200px;
+}
+.cle
+{
+ height: 50px;
+ width: 50px;
+ position: relative;
+ margin-left: 350px;
+ margin-top: 225px;
+ 
+}
+.tente
+{
+ height: 250px;
+ width: 250px;
+ position: relative;
+ margin-left: 200px;
+ 
+ margin-bottom: 50px; 
+ 
+}
+.machado
+{
+ height: 50px;
+ width: 50px;
+ position: relative;
+ margin-left: 50px;
+ margin-bottom: 25px;
+ 
+}
